@@ -8,7 +8,7 @@ public class OOPII_Coursework_II {
       System.out.println("Enter students name(Enter exit when done)");
       int x = 1;
       while(true){
-      System.out.print("Input Student "+x+": ");
+      System.out.print("Input Student "+ x +": ");
         String r = mawa.next();
       if(r.toLowerCase().equals("exit"))
           break;
